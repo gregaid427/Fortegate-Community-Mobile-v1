@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.fortegate.mobile</string>
+	<string>com.fortegate.community</string>
 	<key>PROJECT_ID</key>
 	<string>fortegate-comm-mobile</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:20242132959:ios:a6204d1316d4b3bc6f9e6a</string>
+	<string>1:20242132959:ios:5e7afc7427cb3b7c6f9e6a</string>
 </dict>
 </plist>
