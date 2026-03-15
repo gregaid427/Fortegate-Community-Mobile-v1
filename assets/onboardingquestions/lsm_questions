@@ -1,0 +1,74 @@
+[
+  {
+    "section": "DURABLES / HOUSEHOLD STAFF",
+    "type": "checkbox",
+    "questions": [
+      { "text": "Air Conditioning", "score": 4 },
+      { "text": "Basic feature Mobile Phone", "score": 1 },
+      { "text": "Cable / Satellite", "score": 5 },
+      { "text": "Car", "score": 5 },
+      { "text": "Domestic Staff (Live in)", "score": 5 },
+      { "text": "Domestic Staff (Daily)", "score": 3 },
+      { "text": "Electric Fan", "score": 2 },
+      { "text": "Fridge / Freezer", "score": 4 },
+      { "text": "Microwave", "score": 3 },
+      { "text": "Motorcycle", "score": 2 },
+      { "text": "Personal Computer / Laptop", "score": 5 },
+      { "text": "Smartphone", "score": 4 },
+      { "text": "Television (Flat Screen)", "score": 4 },
+      { "text": "Television (CRT)", "score": 2 },
+      { "text": "Washing Machine", "score": 4 }
+    ]
+  },
+  {
+    "section": "COOKING",
+    "type": "checkbox",
+    "questions": [
+      { "text": "Gas cooker with oven", "score": 5 },
+      { "text": "Gas cooker without oven", "score": 3 },
+      { "text": "Kerosene stove", "score": 2 },
+      { "text": "Charcoal / Wood", "score": 1 }
+    ]
+  },
+  {
+    "section": "EDUCATION LEVEL (RESPONDENT)",
+    "type": "radio",
+    "questions": [
+      { "text": "Tertiary", "score": 5 },
+      { "text": "Secondary", "score": 3 },
+      { "text": "Primary", "score": 1 },
+      { "text": "None", "score": 0 }
+    ]
+  },
+  {
+    "section": "OCCUPATION",
+    "type": "radio",
+    "questions": [
+      { "text": "Professional / Managerial", "score": 5 },
+      { "text": "Clerical / Skilled Manual", "score": 3 },
+      { "text": "Unskilled / Informal", "score": 2 },
+      { "text": "Unemployed / Student", "score": 1 }
+    ]
+  },
+  {
+    "section": "HOUSING",
+    "type": "radio",
+    "questions": [
+      { "text": "Own house", "score": 4 },
+      { "text": "Rent", "score": 2 },
+      { "text": "Shared / Family", "score": 1 }
+    ]
+  },
+  {
+    "section": "WATER & SANITATION",
+    "type": "radio",
+    "questions": [
+      { "text": "Pipe borne water", "score": 4 },
+      { "text": "Borehole", "score": 3 },
+      { "text": "Well / Stream", "score": 1 },
+      { "text": "Water Closet (WC)", "score": 4 },
+      { "text": "Pit Latrine", "score": 2 },
+      { "text": "No Toilet", "score": 0 }
+    ]
+  }
+]

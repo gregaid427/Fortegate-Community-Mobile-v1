@@ -1,0 +1,80 @@
+name: fortegatecommunity
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_easyloading: ^3.0.5
+  dio: ^5.8.0+1
+  http: ^1.4.0
+  flutter_screenutil: ^5.9.3
+  flutter_svg: ^2.1.0
+  provider: ^6.1.5
+  flutter_dotenv: ^6.0.0
+  flutter_secure_storage: ^9.2.4
+  easy_localization: ^3.0.7+1
+  intl: ^0.20.2
+  stacked: ^3.4.4
+  shared_preferences: ^2.5.3
+  intl_phone_field: ^3.2.0
+  another_flushbar: ^1.12.32
+  pinput: ^3.0.1
+  universal_io: ^2.2.2
+  encrypt: ^5.0.3
+
+  image_picker: ^1.1.2
+  flutter_inappwebview: ^6.1.5
+  connectivity_plus: ^5.0.2
+
+  # Permissions
+  permission_handler: ^11.2.0
+
+  # Firebase
+  firebase_core: ^3.12.0
+  firebase_messaging: ^15.0.0
+  flutter_local_notifications: ^19.5.0
+
+  # App rename utility
+  rename_app: ^1.6.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.7
+
+flutter_launcher_icons:
+  android: false
+  ios: true
+  image_path: "assets/icons/logo.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/.env
+    - assets/translations/
+    - assets/onboardingquestions/
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  android: true
+  ios: true
+  web: false
+
+  android_12:
+    color: "#FFFFFF"
